@@ -8,7 +8,7 @@ Software
 * Easy to install FMM implementation in 3D:
 [FMM3D](https://fmm3d.readthedocs.io/en/latest)
 
-* Better performance code with MPI parallelization: [PVFMM](https://pvfmm.org)
+* Better performance code for non-oscillatory kernels with MPI parallelization: [PVFMM](https://pvfmm.org)
 
 * Layer potential evaluators and iterative solvers coupled to FMM in 3D:
   [fmm3dbie](https://fmm3dbie.readthedocs.io/en/latest)
