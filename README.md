@@ -16,7 +16,7 @@ Software
 Notes
 ======
 
-* Series of lectures by Gunnar Martinsson [CBMS](http://amath.colorado.edu/faculty/martinss/2014_CBMS/)
+* Series of lectures by Gunnar Martinsson: [CBMS](http://amath.colorado.edu/faculty/martinss/2014_CBMS/)
 
 * [A short course on FMM](https://web.njit.edu/~jiang/math614/beatson-greengard.pdf)
 
